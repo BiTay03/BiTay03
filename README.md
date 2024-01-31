@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="https://mail.google.com/mail/u/0/?pli=1#inbox">
+  <a href="mailto:danghongquangminh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-33333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/minh-quang-3564b92a4/" target="_blank">
