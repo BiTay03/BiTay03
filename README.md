@@ -16,7 +16,7 @@
 
 💬 Ask me about **NodeJS,Java,... or anything [here](https://github.com/BiTay03/BiTay03/issues)**
 
-⚡ Fun fact ** My favourite is playing soccer and playing PES and FIFA**
+⚡ Fun fact ** My favourite is playing soccer and playing PES and FIFA. Besides, I want to be Streamer 😋**
 
  </div>
  
