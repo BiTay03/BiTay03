@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Quang+Minh!;" />
 </h1>
@@ -16,14 +14,14 @@
  
  🌱 I’m currently learning **NodeJS, JavaSpringboot, Docker, Supabase, AWS, ....**
 
-💬 Ask me about **NodeJS,Java,... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **NodeJS,Java,... or anything [here](https://github.com/BiTay03/BiTay03/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact ** My favourite is playing soccer and playing PES and FIFA**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.danghongquangminh@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/?pli=1#inbox">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/minh-quang-3564b92a4/" target="_blank">
